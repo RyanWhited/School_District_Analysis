@@ -1,6 +1,6 @@
 # School District Analysis
 ## Project Overview
-I was tasked to help to prepare standaradized test data for analysis, reporting, and presentation to provide insights on performance trends and patterns for 15 different high schools within a school district. Once the initial analysis was complete it was reported that there was evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders that were altered. I had to go in and change all grades for those particular students to a null value and refactor the overall analysis.
+I was tasked to help prepare standaradized test data for analysis, reporting, and presentation to provide insights on performance trends and patterns for 15 different high schools within a school district. Once the initial analysis was completed it was reported that there was evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders that were altered. I had to go in and change all grades for those particular students to a null value and refactor the overall analysis.
 
 ## Results
 - How is the district summary affected?
@@ -15,7 +15,7 @@ I was tasked to help to prepare standaradized test data for analysis, reporting,
   ![New Disctrict Summary](https://github.com/RyanWhited/School_District_Analysis/blob/main/Resources/New%20District%20Summary.jpg)
 
 - How is the school summary affected?
-  - I notice a drastic postive change in % passing math, reading, and overall passing as seen below
+  - I noticed a drastic postive change in % passing math, reading, and overall passing as seen below
   
   Original School Summary
   
@@ -31,7 +31,7 @@ I was tasked to help to prepare standaradized test data for analysis, reporting,
 - How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade
-    - No significant affect other than we find the NaN value for Thomas High 9th graders
+    - No significant affect other than we find initial scores were changed to "NaN" for Thomas High 9th graders
     
   - Scores by school spending
     - I discovered increases in values in both the $585-639 and $630-644 ranges
