@@ -1,6 +1,6 @@
 # School District Analysis
 ## Project Overview
-I was tasked to help to prepare all standaradized test data for analysis, reporting, and presentation to provide insights on performance trends and patterns for 15 different high schools within a school disctrict. Once the initial analysis was complete it was reported that there was evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders that were altered. I had to go in and change all grades for those particular students to a null value and refactor the overall analysis.
+I was tasked to help to prepare standaradized test data for analysis, reporting, and presentation to provide insights on performance trends and patterns for 15 different high schools within a school district. Once the initial analysis was complete it was reported that there was evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders that were altered. I had to go in and change all grades for those particular students to a null value and refactor the overall analysis.
 
 ## Results
 - How is the district summary affected?
